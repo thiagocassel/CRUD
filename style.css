@@ -1,0 +1,18 @@
+#formulario 
+{
+    padding: 10px;
+    border: 1px black solid;
+    margin: 20px;
+    background-color: lightgray;
+    width: 400px;
+}
+
+th {
+    background-color: lightgray;
+    width: 300px;
+}
+
+td {
+    text-align: center;
+}
+
